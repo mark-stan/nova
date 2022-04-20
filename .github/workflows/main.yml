@@ -38,7 +38,7 @@ jobs:
       - name: Deploy to Gist
         uses: exuanbo/actions-deploy-gist@v1.1.2
         with:
-          token: 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
+          token: ${{secrets.DEPLOY_TO_GIST}}
           gist_id: 007ec7e6a8204a5832db6cce05b2eace
           gist_description: ""
           gist_file_name: tokens.json
