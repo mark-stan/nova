@@ -41,6 +41,6 @@ jobs:
           token: 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
           gist_id: 007ec7e6a8204a5832db6cce05b2eace
           gist_description: ""
-          gist_file_name: token.json
-          file_path: /src/token.json
+          gist_file_name: tokens.json
+          file_path: /src/tokens.json
         
